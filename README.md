@@ -64,3 +64,9 @@ Visualizes how ideas narrow down from the idea generation phase to the final suc
 Success Output:
 
 Shows the estimated number of successful products based on the funnel configuration and the success rate.
+
+Extensions and Customization
+Add more sliders: You could add sliders for other factors, such as R&D budget or customer feedback.
+Modify success formula: Adjust the calculation of successful products based on more complex factors or include weighted metrics.
+Historical data integration: You could use past product performance data to influence the success rate formula dynamically.
+This should give you a fully interactive simulation that helps understand how different factors influence the product strategy through the innovation funnel!
